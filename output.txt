@@ -83,6 +83,7 @@ CCTV-17 农村农业 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/200
 四川卫视,http://39.135.34.152:18890/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000016825&owchid=ystenlive&owsid=1106497909461321397&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhwC686TkK%2f3k22PorZBLr8k69BtHofhbIyPVBrp9KppkHStTOpUrH7YEsmM6BR8Uo
 四川卫视 FHD,http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 四川 经济 HD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
+四川 新闻 HD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8
 四川 影视文艺 HD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_eqfvkj53_original_r10/c212_scc_20190618_eqfvkj53_original_r10.m3u8
 四川 妇女儿童 HD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_giaorvjb_original_r10/c213_scc_20190618_giaorvjb_original_r10.m3u8
 四川 公共乡村 HD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_zg1qrd4w_original_r10/c214_scc_20190618_zg1qrd4w_original_r10.m3u8
@@ -407,9 +408,14 @@ CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 港台测试,#genre#
 民視,https://live-zb.nanhailong.com/live/df41e06d9a5d49bba2adf5fba9a572c3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
+民視新聞台,https://live-zb.nanhailong.com/live/ab53b1d3046f49a19196e52452457687/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 台視,https://live-zb.nanhailong.com/live/be67a48a58df4b18b48ea77dcabd2a6d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
+台视 新闻 FHD ★,http://tv.sason.xyz/tsxw
 中視,https://live-zb.nanhailong.com/live/3569d2ac78854fe591203933640cba7e/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 華視,https://live-zb.nanhailong.com/live/780904c9889c432e9c6d5516bbf147f1/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
+华视,http://cdn.5itv.tv/ZZ_huashi/ZZ_huashi.m3u8
+华视 新闻 FHD ★,http://tv.sason.xyz/hsxw
+华视 新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
 公視,https://live-zb.nanhailong.com/live/37b6594cfdc04b9abc7a15b9c4c86acc/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 東森新聞台,https://live-zb.nanhailong.com/live/cdf2981203d3441094f9df1882d0f86f/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 東森綜合台,https://live-zb.nanhailong.com/live/5810e7afa3ff4d3ab03f4c515cbf4938/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
@@ -428,12 +434,12 @@ CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 三立綜合台,https://live-zb.nanhailong.com/live/8b007efabfde4fba844487ec2eb06361/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 三立新闻,https://live-zb.nanhailong.com/live/cdc765c5a46f46f38ae280534788d39d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 中天娛樂台,https://live-zb.nanhailong.com/live/8ae9ef4d69b24c4f8cea6b279874f747/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
+中天 娱乐,http://cdn.5itv.tv/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 中天綜合台,https://live-zb.nanhailong.com/live/85493b6fbd5e44a8a3498545ec4498a3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 中天新聞台,https://live-zb.nanhailong.com/live/430a96d82dac4b589b33db007dd9b84b/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 TVBS,https://live-zb.nanhailong.com/live/0023b82773e449f38b809ccdfaa01c8c/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 TVBS新聞台,https://live-zb.nanhailong.com/live/593f0a064cee40d0b6444d01b0a414d3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 TVBS歡樂台,https://live-zb.nanhailong.com/live/abc2bc9c6bbe4d2d8151f1afcaae287d/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-民視新聞台,https://live-zb.nanhailong.com/live/ab53b1d3046f49a19196e52452457687/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 非凡新聞台,https://live-zb.nanhailong.com/live/017f47c9a32f46ecaa4ab3184501e3e6/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 非凡商業台,https://live-zb.nanhailong.com/live/78325467a0ca4f0dbf44a8cac9d2e2b7/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 年代新聞台,https://live-zb.nanhailong.com/live/e04289016c18464fab75d925b4ac7491/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
@@ -450,6 +456,7 @@ TVBS歡樂台,https://live-zb.nanhailong.com/live/abc2bc9c6bbe4d2d8151f1afcaae28
 緯來電影台,https://live-zb.nanhailong.com/live/bd9dfc3c2e2c43caba875760c889cdf1/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 緯來日本台,https://live-zb.nanhailong.com/live/75b80c2f421343948539bc57710568b1/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 龍祥時代台,https://live-zb.nanhailong.com/live/807a11b8905e484391a479e426ba59e3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
+龙祥时代,http://cdn.5itv.tv/ZZ_shidai/ZZ_shidai.m3u8
 龍華戲劇台,https://live-zb.nanhailong.com/live/97e37bf593894f999a52dd5022bef819/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 龍華洋片台,https://live-zb.nanhailong.com/live/b0fde73c443f4ed6a8091ff5bae51d25/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 龍華動畫台,https://live-zb.nanhailong.com/live/2c900873d4f541eba4285f121fcac0c0/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
@@ -631,7 +638,6 @@ Document全记实 FHD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_v5
 华数HD-23,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 F.四川本地,#genre#
 四川 文化旅游 HD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
-四川 新闻 HD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8
 四川 科教 HD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_3yrf3z1p_original_r10/c211_scc_20190618_3yrf3z1p_original_r10.m3u8
 G.成都本地,#genre#
 CDTV-1 新闻综合 SD,https://guihet.com/download/livetv/cditv/cditv.php?show-192-1-1
@@ -646,7 +652,6 @@ ver.2019.02.02,http://liveali.ifeng.com/live/FHZX.m3u8
 (带★号需科学上网),http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 A.综合,#genre#
 (带※号有广告),https://play1.dsz77.com/live/tvbs56/index.m3u8
-华视,http://cdn.5itv.tv/ZZ_huashi/ZZ_huashi.m3u8
 8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
@@ -661,21 +666,16 @@ C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 E.体育,#genre#
 博斯 魅力★,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 澳视 体育,http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
-B.新闻|时政|财经,#genre#
-华视 新闻 FHD ★,http://tv.sason.xyz/hsxw
-华视 新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
-台视 新闻 FHD ★,http://tv.sason.xyz/tsxw
-TVB 新闻,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8
-TVB 财经资讯,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
-有线 财经资讯,http://wowgua.com/live/channel_108.m3u8
-澳视 资讯,http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
-C.综艺|电影|剧集,#genre#
-龙祥时代,http://cdn.5itv.tv/ZZ_shidai/ZZ_shidai.m3u8
-中天 娱乐,http://cdn.5itv.tv/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-有线 综合娱乐,http://wowgua.com/live/channel_301.m3u8
-CNEX,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 F.儿童,#genre#
 卡通频道,http://lss.line-scdn.net/cc_tw/p/live/hcQuXJaxEPX8ZTCNvIFkgSHMoNU01QX0ofUJxGGohYho1GSgsdUZ1T2h1YhpjFyggfEd7TW0nZEZmVHp7cxN1TGkjfE5kDnsrfVhzGmU-ZUhuEXopfUc/720/chunklist.m3u8
 D.记录|科教|旅游,#genre#
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
+B.新闻|时政|财经,#genre#
+TVB 新闻,http://bsypull.seastart.tv/sstlive/wp1vv/playlist.m3u8
+TVB 财经资讯,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+有线 财经资讯,http://wowgua.com/live/channel_108.m3u8
+澳视 资讯,http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+C.综艺|电影|剧集,#genre#
+有线 综合娱乐,http://wowgua.com/live/channel_301.m3u8
+CNEX,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
