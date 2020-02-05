@@ -1,0 +1,37 @@
+浙江本地,#genre#
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://yf.m.l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+钱江频道,http://yf.m.l.cztv.com/channels/lantian/channel002/1080p.m3u8
+钱江频道,http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视,http://yf.m.l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+教育科技,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+教育科技,http://yf.m.l.cztv.com/channels/lantian/channel004/1080p.m3u8
+教育科技,http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江影视,http://yf.m.l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江影视,http://yd-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+6 频道,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+6 频道,http://yf.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
+6 频道,http://yd-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+公共频道,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+公共频道,http://yf.m.l.cztv.com/channels/lantian/channel007/1080p.m3u8
+公共频道,http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://yf.m.l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+留学世界,http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+留学世界,http://yf.m.l.cztv.com/channels/lantian/channel009/1080p.m3u8
+留学世界,http://yd-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://yf.m.l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+好易购,http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+好易购,http://yf.m.l.cztv.com/channels/lantian/channel011/1080p.m3u8
+好易购,http://yd-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+数码时代,http://yf.m.l.cztv.com/channels/lantian/channel012/1080p.m3u8
+数码时代,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
